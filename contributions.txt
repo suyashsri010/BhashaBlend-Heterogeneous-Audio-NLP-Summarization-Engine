@@ -3,3 +3,4 @@
 [2026-03-01T19:33:24] Optimize wav file chunking for long audio
 [2026-03-02T09:33:47] Update model parameters for mT5 base model
 [2026-03-02T14:06:02] Increase evaluation sample size to 300
+[2026-03-02T19:31:20] Improve console output readability
