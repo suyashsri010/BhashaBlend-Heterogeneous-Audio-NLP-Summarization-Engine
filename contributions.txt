@@ -1,3 +1,4 @@
 # BhashaBlend Contribution History
 [2026-03-01T11:48:10] Tune checkpoints save interval
 [2026-03-01T19:33:24] Optimize wav file chunking for long audio
+[2026-03-02T09:33:47] Update model parameters for mT5 base model
