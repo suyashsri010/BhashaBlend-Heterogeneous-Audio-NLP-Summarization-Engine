@@ -8,3 +8,4 @@
 [2026-03-06T09:00:03] Improve console output readability
 [2026-03-06T10:53:48] Update documentation with latency charts
 [2026-03-06T12:48:51] Update model parameters for mT5 base model
+[2026-03-06T17:06:34] Add logging configuration for streamlit dashboard
