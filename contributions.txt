@@ -18,3 +18,4 @@
 [2026-03-10T18:07:15] Optimize wav file chunking for long audio
 [2026-03-10T20:45:33] Fix hinglish character mapping error
 [2026-03-15T11:29:14] Adjust thresholds for ROUGE score comparison
+[2026-03-15T12:04:14] Minor typo fixes in comments
