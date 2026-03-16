@@ -20,3 +20,4 @@
 [2026-03-15T11:29:14] Adjust thresholds for ROUGE score comparison
 [2026-03-15T12:04:14] Minor typo fixes in comments
 [2026-03-15T19:37:32] Tune checkpoints save interval
+[2026-03-16T14:51:28] Update requirements.txt with torch version lock
