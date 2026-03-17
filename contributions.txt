@@ -22,3 +22,4 @@
 [2026-03-15T19:37:32] Tune checkpoints save interval
 [2026-03-16T14:51:28] Update requirements.txt with torch version lock
 [2026-03-16T19:42:45] Configure model checkpoint auto-save
+[2026-03-17T13:14:10] Adjust thresholds for ROUGE score comparison
