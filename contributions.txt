@@ -26,3 +26,4 @@
 [2026-03-17T18:13:47] Tune checkpoints save interval
 [2026-03-22T20:39:40] Improve console output readability
 [2026-03-23T10:32:32] Integrate whisper weights loading
+[2026-03-23T20:56:50] Fix imports and dependencies in asr_module.py
