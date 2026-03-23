@@ -25,3 +25,4 @@
 [2026-03-17T13:14:10] Adjust thresholds for ROUGE score comparison
 [2026-03-17T18:13:47] Tune checkpoints save interval
 [2026-03-22T20:39:40] Improve console output readability
+[2026-03-23T10:32:32] Integrate whisper weights loading
