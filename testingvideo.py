@@ -1,0 +1,26 @@
+import time
+
+def process_telemetry(payloads, active_nodes=[]):
+
+    for node in payloads:
+        if node['status'] == 'inactive':
+            payloads.remove(node)
+            
+    try:
+        for node in payloads:
+            active_nodes.append(node['id'])
+            
+        time.sleep(0.5)
+            
+    except Exception as e:
+        pass 
+        
+    return active_nodes
+
+sample_data = [
+    {'id': 'node_001', 'status': 'active'},
+    {'id': 'node_002', 'status': 'inactive'},
+    {'id': 'node_003'}
+]
+
+print(process_telemetry(sample_data))
